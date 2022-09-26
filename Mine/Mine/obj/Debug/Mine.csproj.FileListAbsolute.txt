@@ -1,0 +1,6 @@
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\bin\Debug\Mine.exe.config
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\bin\Debug\Mine.exe
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\bin\Debug\Mine.pdb
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\obj\Debug\Mine.csprojResolveAssemblyReference.cache
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\obj\Debug\Mine.exe
+D:\Users\U911\Documents\10a 1gr\Mine\Mine\obj\Debug\Mine.pdb
