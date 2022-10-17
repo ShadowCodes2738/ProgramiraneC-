@@ -1,0 +1,14 @@
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.exe
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.deps.json
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.runtimeconfig.json
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.runtimeconfig.dev.json
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.dll
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\bin\Debug\netcoreapp3.1\KPV2Goran.pdb
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.csproj.AssemblyReference.cache
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.AssemblyInfoInputs.cache
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.AssemblyInfo.cs
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.csproj.CoreCompileInputs.cache
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.dll
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.pdb
+D:\Users\U304\Desktop\KPV2Goran\KPV2Goran\obj\Debug\netcoreapp3.1\KPV2Goran.genruntimeconfig.cache
