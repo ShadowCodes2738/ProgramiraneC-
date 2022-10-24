@@ -1,0 +1,6 @@
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\bin\Debug\CarDriving.exe.config
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\obj\Debug\CarDriving.csprojResolveAssemblyReference.cache
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\bin\Debug\CarDriving.exe
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\bin\Debug\CarDriving.pdb
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\obj\Debug\CarDriving.exe
+D:\Users\U911\Documents\10a 1gr\CarDriving\CarDriving\obj\Debug\CarDriving.pdb
