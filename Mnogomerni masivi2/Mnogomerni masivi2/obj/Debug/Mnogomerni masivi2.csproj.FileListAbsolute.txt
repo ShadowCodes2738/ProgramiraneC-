@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\bin\Debug\Mnogomerni masivi2.exe.config
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\bin\Debug\Mnogomerni masivi2.exe
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\bin\Debug\Mnogomerni masivi2.pdb
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\obj\Debug\Mnogomerni masivi2.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\obj\Debug\Mnogomerni masivi2.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\obj\Debug\Mnogomerni masivi2.exe
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Mnogomerni masivi2\Mnogomerni masivi2\obj\Debug\Mnogomerni masivi2.pdb
