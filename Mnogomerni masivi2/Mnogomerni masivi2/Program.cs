@@ -57,13 +57,14 @@ namespace Mnogomerni_masivi2
                 Console.WriteLine();
             }
             // 5 /1.5/ Намира получените средства само за уикендите / съботи и недели
-            for (int i = 0; i < 2; i++)
+            Console.WriteLine("Oboroti za weekendite");
+            for (int i = 0; i < 5; i++)
             {
                 for (int j = 5; j < 7; j++)
                 {
                     Console.Write(oborot[i, j] + " ");
                 }
-                Console.WriteLine();
+                Console.WriteLine("<-Weekends");            
             }
         }
     }
