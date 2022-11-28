@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\bin\Debug\Spisaci.exe.config
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\bin\Debug\Spisaci.exe
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\bin\Debug\Spisaci.pdb
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\obj\Debug\Spisaci.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\obj\Debug\Spisaci.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\obj\Debug\Spisaci.exe
+D:\Users\U304\Documents\10a 1gr UPProgramirane RPP\Spisaci\Spisaci\obj\Debug\Spisaci.pdb
