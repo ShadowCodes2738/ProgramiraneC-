@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broini systemi", "Broini systemi\Broini systemi.csproj", "{2E0E94FD-E9F3-4C98-AE87-9A1DBD5EC159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma na dvoichni chisal", "Suma na dvoichni chisal\Suma na dvoichni chisal.csproj", "{8E1094FE-FC44-4830-B3B9-75922DD9EA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0E94FD-E9F3-4C98-AE87-9A1DBD5EC159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0E94FD-E9F3-4C98-AE87-9A1DBD5EC159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0E94FD-E9F3-4C98-AE87-9A1DBD5EC159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0E94FD-E9F3-4C98-AE87-9A1DBD5EC159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1094FE-FC44-4830-B3B9-75922DD9EA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1094FE-FC44-4830-B3B9-75922DD9EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1094FE-FC44-4830-B3B9-75922DD9EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1094FE-FC44-4830-B3B9-75922DD9EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6321CA5-76F3-48CB-847D-7945774D1CDA}
+	EndGlobalSection
+EndGlobal
