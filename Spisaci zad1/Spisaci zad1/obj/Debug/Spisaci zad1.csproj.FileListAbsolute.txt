@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\obj\Debug\Spisaci zad1.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\obj\Debug\Spisaci zad1.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\bin\Debug\Spisaci zad1.exe.config
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\bin\Debug\Spisaci zad1.exe
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\bin\Debug\Spisaci zad1.pdb
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\obj\Debug\Spisaci zad1.exe
+D:\Users\U304\Documents\10a_1gr_UASD\Spisaci zad1\Spisaci zad1\obj\Debug\Spisaci zad1.pdb
