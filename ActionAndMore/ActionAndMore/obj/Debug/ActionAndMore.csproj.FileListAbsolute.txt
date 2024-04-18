@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\bin\Debug\ActionAndMore.exe.config
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\bin\Debug\ActionAndMore.exe
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\bin\Debug\ActionAndMore.pdb
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\obj\Debug\ActionAndMore.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\obj\Debug\ActionAndMore.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\obj\Debug\ActionAndMore.exe
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionAndMore\obj\Debug\ActionAndMore.pdb

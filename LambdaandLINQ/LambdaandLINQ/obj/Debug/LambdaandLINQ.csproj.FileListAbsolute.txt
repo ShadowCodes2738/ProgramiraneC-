@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\bin\Debug\LambdaandLINQ.exe.config
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\bin\Debug\LambdaandLINQ.exe
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\bin\Debug\LambdaandLINQ.pdb
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\obj\Debug\LambdaandLINQ.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\obj\Debug\LambdaandLINQ.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\obj\Debug\LambdaandLINQ.exe
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaandLINQ\LambdaandLINQ\obj\Debug\LambdaandLINQ.pdb

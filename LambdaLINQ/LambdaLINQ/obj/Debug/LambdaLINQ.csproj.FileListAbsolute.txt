@@ -1,0 +1,7 @@
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\bin\Debug\LambdaLINQ.exe.config
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\bin\Debug\LambdaLINQ.exe
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\bin\Debug\LambdaLINQ.pdb
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\obj\Debug\LambdaLINQ.csproj.AssemblyReference.cache
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\obj\Debug\LambdaLINQ.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\obj\Debug\LambdaLINQ.exe
+D:\Users\U304\Documents\11а_1gr_OOP\LambdaLINQ\LambdaLINQ\obj\Debug\LambdaLINQ.pdb

@@ -1,0 +1,6 @@
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\bin\Debug\ActionsAndMore2.exe.config
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\bin\Debug\ActionsAndMore2.exe
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\bin\Debug\ActionsAndMore2.pdb
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\obj\Debug\ActionsAndMore2.csproj.CoreCompileInputs.cache
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\obj\Debug\ActionsAndMore2.exe
+D:\Users\U304\Documents\11а_1gr_OOP\ActionAndMore\ActionsAndMore2\obj\Debug\ActionsAndMore2.pdb
