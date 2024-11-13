@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kids Corner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="hero">
+        <div class="hero-text">
+            <h1>A comfort corner for your child</h1>
+            <a href="#about" class="btn">Learn More</a>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="logo">kids<span>corner</span></div>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#offerings">Offerings</a></li>
+            <li><a href="#camps">Camps</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <!-- Welcome Section -->
+    <section id="about" class="welcome">
+        <h2>Welcome to Kids Corner</h2>
+        <p>The Heart’s Kids Club provides lots of fun activities with an educational twist. Kids can join for free and will receive a goody bag and a membership card on induction. Each workshop will be interactive, educational, and introduce children to important concepts that they will really enjoy.</p>
+        <p>If you are a parent looking for a place where your child will grow the best, look further, <a href="#contact">talk to us now</a>.</p>
+    </section>
+
+    <!-- Offerings Section -->
+    <section id="offerings" class="offerings">
+        <h2>Our Offerings</h2>
+        <div class="offerings-grid">
+            <div class="offering">
+                <img src="school_pickup_icon.png" alt="School Pickups">
+                <h3>School Pickups</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+            <div class="offering">
+                <img src="library_icon.png" alt="Extensive Library">
+                <h3>Extensive Library</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+            <div class="offering">
+                <img src="outdoor_trips_icon.png" alt="Outdoor Trips">
+                <h3>Outdoor Trips</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+            <div class="offering">
+                <img src="healthy_food_icon.png" alt="Healthy Food">
+                <h3>Healthy Food</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+            <div class="offering">
+                <img src="first_aid_icon.png" alt="First Aid Services">
+                <h3>First Aid Services</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+            <div class="offering">
+                <img src="games_icon.png" alt="Games and Activities">
+                <h3>Games and Activities</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Upcoming Camps Section -->
+    <section id="camps" class="camps">
+        <h2>Upcoming Camps</h2>
+        <div class="camps-grid">
+            <div class="camp">
+                <img src="soccer_camp.jpg" alt="Soccer Camp">
+                <h3>Soccer Camp</h3>
+                <p>15th February 2019</p>
+                <p>$35</p>
+                <button>Enroll Today</button>
+            </div>
+            <div class="camp">
+                <img src="swimming_camp.jpg" alt="Swimming Camp">
+                <h3>Swimming Camp</h3>
+                <p>15th February 2019</p>
+                <p>$35</p>
+                <button>Enroll Today</button>
+            </div>
+            <div class="camp">
+                <img src="dog_camp.jpg" alt="Dog Camp">
+                <h3>Dog Camp</h3>
+                <p>15th February 2019</p>
+                <p>$35</p>
+                <button>Enroll Today</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>CopyRight 2014. All Rights Reserved.</p>
+        <div class="social-icons">
+            <a href="#"><img src="facebook_icon.png" alt="Facebook"></a>
+            <a href="#"><img src="instagram_icon.png" alt="Instagram"></a>
+            <a href="#"><img src="twitter_icon.png" alt="Twitter"></a>
+        </div>
+    </footer>
+</body>
+</html>
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    background: url('hero_image.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 200px 0;
+}
+
+.hero-text h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-text .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.navbar ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+/* Welcome Section */
+.welcome {
+    padding: 40px;
+    text-align: center;
+}
+
+.welcome h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Offerings Section */
+.offerings {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.offerings h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.offerings-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.offering {
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+}
+
+.offering img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+/* Camps Section */
+.camps {
+    padding: 40px;
+    text-align: center;
+}
+
+.camps h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.camps-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.camp {
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.camp img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.camp h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.camp button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.social-icons img {
+    width: 20px;
+    margin: 0 5px;
+}
